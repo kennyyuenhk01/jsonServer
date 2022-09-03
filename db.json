@@ -1,9 +1,17 @@
 {
-  "user": {
+  "user": [
+  {
     "id": 1,
     "firstName": "Kenny",
     "lastName": "Yuen",
     "sex": "Male",
     "age": 18
+  }, 
+  {
+    "id": 2,
+    "firstName": "Gigi",
+    "lastName": "Lee",
+    "sex": "Female",
+    "age": 17
   }
 }
