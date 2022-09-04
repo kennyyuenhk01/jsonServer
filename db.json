@@ -1,11 +1,18 @@
 {
-  "posts": [
+  "user": [
     {
       "id": 1,
-      "title": "hello"
+      "firstName": "Kenny",
+      "lastName": "Yuen",
+      "sex": "Male",
+      "age": 18
+    }, 
+    {
+      "id": 2,
+      "firstName": "Gigi",
+      "lastName": "Lee",
+      "sex": "Female",
+      "age": 17
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
