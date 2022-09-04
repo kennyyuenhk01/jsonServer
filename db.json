@@ -13,6 +13,13 @@
       "lastName": "Lee",
       "sex": "Female",
       "age": 17
+    }, 
+    {
+      "id": 3,
+      "firstName": "Bear",
+      "lastName": "Yu",
+      "sex": "Female",
+      "age": 4
     }
   ]
 }
